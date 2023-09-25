@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Bessone</h1>
-<h3 align="center">A passionate Software Developer Student</h3>
+<h3 align="center">A passionate Software Development Student</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
